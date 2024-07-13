@@ -10,8 +10,8 @@ Instal All dependencies in this project
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the Hosted mode.<br />
+https://6690fa34cd41fd0f89ef72f2--dictionary2632.netlify.app/
 
 ### Link
 
