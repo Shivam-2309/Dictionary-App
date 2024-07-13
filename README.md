@@ -27,6 +27,7 @@ npm install
 ### Link
 Api: https://api.dictionaryapi.dev/api/v2/entries/en/example
 TailwindCSS: https://tailwindcss.com/docs/guides/create-react-app
+
 Runs the app in the Hosted mode.<br />
 https://6690fa34cd41fd0f89ef72f2--dictionary2632.netlify.app/
 
