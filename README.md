@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 
 Copy code
-git clone https://github.com/your-username/dictionary-app.git
+git clone https://github.com/Shivam-2309/dictionary-app.git
 cd dictionary-app
 Install dependencies:
 
